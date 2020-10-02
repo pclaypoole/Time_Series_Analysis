@@ -71,18 +71,3 @@ Use the results of the linear regression analysis and modeling to answer the fol
     * The Out-of sample RMSE is lower than the In-sample RMSE. Typically the training data is lower but is higher in the data above.
 
 - - -
-
-### Hints and Considerations
-
-* Out-of-sample data is data that the model hasn't seen before (Testing data).
-* In-sample data is data that the model was trained on (Training data).
-
-- - -
-
-### Submission
-
-* Create Jupyter Notebooks for the analysis and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcampspot.
