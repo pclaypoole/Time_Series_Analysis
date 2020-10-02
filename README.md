@@ -46,8 +46,11 @@ Follow the steps outlined in the time-series starter notebook to complete the fo
 Use the results of the time series analysis and modeling to answer the following questions:
 
 1. Based on your time series analysis, would you buy the yen now?
+    * Medium-risk, High-risk investors would consider buying to maximize returns.
 2. Is the risk of the yen expected to increase or decrease?
+    * The risk is excepted to increase along with volatility. 
 3. Based on the model evaluation, would you feel confident in using these models for trading?
+    * the ARIMA and GARCH models produce confident outputs related to probability to use for trading. 
 
 
 #### Linear Regression Forecasting
@@ -65,6 +68,7 @@ Follow the steps outlined in the regression_analysis starter notebook to complet
 Use the results of the linear regression analysis and modeling to answer the following question:
 
 * Does this model perform better or worse on out-of-sample data compared to in-sample data?
+    * The Out-of sample RMSE is lower than the In-sample RMSE. Typically the training data is lower but is higher in the data above.
 
 - - -
 
